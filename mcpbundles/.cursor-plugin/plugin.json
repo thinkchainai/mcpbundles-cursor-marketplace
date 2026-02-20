@@ -1,0 +1,14 @@
+{
+  "name": "mcpbundles",
+  "version": "1.0.0",
+  "description": "Connect Cursor to 500+ services through MCPBundles — hosted MCP servers with MCP UI Apps, programmatic execution, team credential management, agent operations, and tool execution audit trail.",
+  "author": {
+    "name": "MCPBundles",
+    "email": "team@mcpbundles.com"
+  },
+  "homepage": "https://mcpbundles.com",
+  "repository": "https://github.com/thinkchainai/mcpbundles-cursor-marketplace",
+  "license": "MIT",
+  "keywords": ["mcp", "mcpbundles", "integrations", "api", "tools", "mcp-apps", "programmatic", "audit", "credentials", "workspace", "agents", "hubspot", "stripe", "gmail", "slack", "postgres", "crm", "payments", "email", "database"],
+  "logo": "assets/logo.svg"
+}

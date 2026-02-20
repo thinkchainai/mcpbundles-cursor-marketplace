@@ -1,0 +1,19 @@
+{
+  "name": "mcpbundles",
+  "owner": {
+    "name": "MCPBundles",
+    "email": "team@mcpbundles.com"
+  },
+  "metadata": {
+    "description": "500+ hosted MCP integrations with MCP UI Apps, programmatic tool execution, team credential management, agent operations, and full audit trail."
+  },
+  "plugins": [
+    {
+      "name": "mcpbundles",
+      "source": "mcpbundles",
+      "description": "Connect Cursor to 500+ services through MCPBundles — hosted MCP servers with MCP UI Apps, programmatic execution, team credential management, agent operations, and tool execution audit trail.",
+      "keywords": ["mcp", "mcpbundles", "integrations", "api", "tools", "mcp-apps", "programmatic", "audit", "credentials", "workspace", "agents", "hubspot", "stripe", "gmail", "slack", "postgres"],
+      "category": "integrations"
+    }
+  ]
+}
